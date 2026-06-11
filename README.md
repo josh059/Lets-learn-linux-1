@@ -39,7 +39,7 @@ lets-learn-linux-1/
 │   ├── screenshots4_tree.png
 │   ├── screenshots.png
 │   ├── ...
-│   └── screenshots1_tree.png
+│   └── screenshots...22.png
 └── README.md
 ```
 
